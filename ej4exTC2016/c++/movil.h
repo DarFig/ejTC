@@ -1,5 +1,11 @@
 #pragma once
 
+
+/*
+*v2016-08-16
+*
+*/
+
 #include <iostream>
 #include "dibujable.h"
 

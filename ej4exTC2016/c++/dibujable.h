@@ -1,5 +1,10 @@
 #pragma once
 
+/*
+*v2016-08-16
+*
+*/
+
 class dibujable {
 
 public:

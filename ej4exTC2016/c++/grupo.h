@@ -1,4 +1,10 @@
 #pragma once
+
+/*
+*v2016-08-16
+*
+*/
+
 #include "dibujable.h"
 #include "fijo.h"
 #include "movil.h"
